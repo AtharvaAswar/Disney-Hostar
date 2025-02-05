@@ -7,7 +7,7 @@ import HeaderItems from './HeaderItems';
 
 export default function Header() {
 
-    const [toggle, setToggle] = useState(true);
+    const [toggle, setToggle] = useState(false);
     const menu = [
         {
             name: "Home",
@@ -35,7 +35,7 @@ export default function Header() {
         }
     ]
     return (
-        <div className='flex items-center justify-between p-5'>
+        <div className='flex items-center justify-between p-5 bg-[#0B0B22]'>
             <div className='flex items-center gap-8'>
                 <img src={logo} alt="Disney" className='w-[80px] md:w-[115px] object-cover' />
                 <div className='hidden md:flex gap-8'>
