@@ -1,8 +1,29 @@
-# React + Vite
+# Disney+ Hotstar Clone 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a Disney+ Hotstar Clone, built using React (Vite), Tailwind CSS, and JavaScript. It fetches movie data from The Movie Database (TMDB) API and displays trending movies, genres, and latest releases in an intuitive UI.
 
-Currently, two official plugins are available:
+![Preview]([https://drive.google.com/uc?export=view&id=1FSBKE80-IcJXBQ-Qp2gKVyeBHN0shOMd](https://drive.google.com/file/d/1hU3xZ-BLDWfG_o6L8SimTDoWxsC3k47F/view?usp=sharing))
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features 🚀
+- 🎞 **Fetch Movies from TMDB** – Displays movie images, titles, and genres.
+- 🔍 **Search Functionality** – Find movies easily by name.
+- 🎭 **Genre-Based Categorization** – View movies by different genres.
+- 🎥 **Latest Releases** – Stay updated with the newest movies.
+- 📱 **Responsive Design** – Optimized for all screen sizes.
+- ⚡ **Fast & Efficient** – Built with Vite for blazing-fast performance.
+
+## Technologies Used 🛠
+- **Frontend:** React (Vite), Tailwind CSS
+- **API:** The Movie Database (TMDB)
+- **State Management:** React Hooks
+- **Version Control:** Git & GitHub
+
+## Live Preview 🌍
+Check out the live version here: [Disney+ Hotstar Clone](https://your-live-link-here)
+
+## Getting Started 🚀
+
+### Prerequisites
+Ensure you have the following installed:
+- Node.js
+- npm or yarn
