@@ -2,7 +2,9 @@
 
 This repository contains a Disney+ Hotstar Clone, built using React (Vite), Tailwind CSS, and JavaScript. It fetches movie data from The Movie Database (TMDB) API and displays trending movies, genres, and latest releases in an intuitive UI.
 
-![Preview](https://drive.google.com/file/d/1hU3xZ-BLDWfG_o6L8SimTDoWxsC3k47F/view?usp=sharing)
+> ⚠️ **Note:** For the best experience (especially if movie posters or content don't load), please use a VPN. Some content may be geo-restricted via TMDB API.
+
+![Preview](https://drive.google.com/uc?export=view&id=1hU3xZ-BLDWfG_o6L8SimTDoWxsC3k47F)
 
 ## Features 🚀
 - 🎞 **Fetch Movies from TMDB** – Displays movie images, titles, and genres.
@@ -27,3 +29,4 @@ Check out the live version here: [Disney+ Hotstar Clone](https://disney-hostar.v
 Ensure you have the following installed:
 - Node.js
 - npm or yarn
+- 
