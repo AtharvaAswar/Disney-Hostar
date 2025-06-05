@@ -29,4 +29,3 @@ Check out the live version here: [Disney+ Hotstar Clone](https://disney-hostar.v
 Ensure you have the following installed:
 - Node.js
 - npm or yarn
-- 
